@@ -1,6 +1,6 @@
 homepage: "https://cmp-app.trackable.digital/docs"
 documentation: "https://cmp-app.trackable.digital/docs/gtm#template"
 versions:
-  - sha: ee2de6d8d56fbba86258455165125d40177d19a5
+  - sha: 83f197d339502a6ba1961f553cb0f012ad9440f5
     changeNotes: |2
       Initial release: Consent Mode v2 defaults by region, a returning visitor's choice as the default and an immediate update, Microsoft UET consent, Global Privacy Control in US rows, then loads the Trackable CMP banner.
